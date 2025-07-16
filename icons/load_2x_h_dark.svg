@@ -1,6 +1,6 @@
 <svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_43_1632)">
-<rect width="128" height="128" transform="matrix(-1 0 0 -1 128 128)" fill="#F2ECDA"/>
+<g clip-path="url(#clip0_43_1911)">
+<rect width="128" height="128" transform="matrix(-1 0 0 -1 128 128)" fill="#E5DBC7"/>
 <ellipse cx="4" cy="123" rx="3" ry="2" transform="rotate(-180 4 123)" fill="#CCCABE"/>
 <ellipse cx="18.5" cy="126" rx="2.5" ry="2" transform="rotate(-180 18.5 126)" fill="#CCCABE"/>
 <ellipse cx="20" cy="107" rx="2" ry="3" transform="rotate(-180 20 107)" fill="#CCCABE"/>
@@ -33,7 +33,7 @@
 <circle cx="3" cy="1" r="2" transform="rotate(-180 3 1)" fill="#CCCABE"/>
 <ellipse cx="30" cy="3" rx="2" ry="3" transform="rotate(-180 30 3)" fill="#CCCABE"/>
 </g>
-<g clip-path="url(#clip1_43_1632)">
+<g clip-path="url(#clip1_43_1911)">
 <ellipse cx="124" cy="5" rx="3" ry="2" fill="#CCCABE"/>
 <ellipse cx="109.5" cy="2" rx="2.5" ry="2" fill="#CCCABE"/>
 <ellipse cx="108" cy="21" rx="2" ry="3" fill="#CCCABE"/>
@@ -67,10 +67,10 @@
 <ellipse cx="98" cy="125" rx="2" ry="3" fill="#CCCABE"/>
 </g>
 <defs>
-<clipPath id="clip0_43_1632">
+<clipPath id="clip0_43_1911">
 <rect width="128" height="128" fill="white" transform="matrix(-1 0 0 -1 128 128)"/>
 </clipPath>
-<clipPath id="clip1_43_1632">
+<clipPath id="clip1_43_1911">
 <rect width="128" height="128" fill="white"/>
 </clipPath>
 </defs>
