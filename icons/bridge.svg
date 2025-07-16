@@ -1,7 +1,7 @@
 <svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="128" height="128" fill="#BF7070"/>
-<line x1="6" y1="8.74228e-08" x2="5.99999" y2="128" stroke="white" stroke-opacity="0.6" stroke-width="4"/>
-<line x1="122" y1="8.74228e-08" x2="122" y2="128" stroke="white" stroke-opacity="0.6" stroke-width="4"/>
-<line x1="116.5" y1="2.18557e-08" x2="116.5" y2="128" stroke="#CECECE" stroke-opacity="0.6"/>
-<line x1="11.5" y1="2.18557e-08" x2="11.5" y2="128" stroke="#CECECE" stroke-opacity="0.6"/>
+<rect width="128" height="128" transform="matrix(0 -1 1 0 0 128)" fill="#BF7070"/>
+<line x1="8.74228e-08" y1="122" x2="128" y2="122" stroke="white" stroke-opacity="0.6" stroke-width="4"/>
+<line x1="8.74228e-08" y1="5.99999" x2="128" y2="6" stroke="white" stroke-opacity="0.6" stroke-width="4"/>
+<line x1="2.18557e-08" y1="11.5" x2="128" y2="11.5" stroke="#CECECE" stroke-opacity="0.6"/>
+<line x1="2.18557e-08" y1="116.5" x2="128" y2="116.5" stroke="#CECECE" stroke-opacity="0.6"/>
 </svg>
